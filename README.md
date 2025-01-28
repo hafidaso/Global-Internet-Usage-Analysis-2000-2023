@@ -29,8 +29,9 @@ This interactive Streamlit app provides an in-depth analysis of global internet 
 - **Customizable Visualizations:** Adjust chart types, smooth data, and select metrics for analysis
 - **Feedback and About Sections:** Provide feedback and learn about data sources and methodology
 
+  
 ## Demo
-<img src="screenshots/Screenshot-2025-01-28-at-18.11.16.png" alt="Demo Screenshot" width="800"/>
+![Demo Screenshot](https://github.com/hafidaso/Global-Internet-Usage-Analysis-2000-2023/blob/833a835a4f5031a3d937f2d8c609b7fedf5c73d7/Screenshot%202025-01-28%20at%2018.11.16.png?raw=true)
 
 ## Data Sources
 ### Internet Usage Data:
