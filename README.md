@@ -28,9 +28,9 @@ This interactive Streamlit app provides an in-depth analysis of global internet 
 - **Data Table and Download:** View and download data tables for selected years
 - **Customizable Visualizations:** Adjust chart types, smooth data, and select metrics for analysis
 - **Feedback and About Sections:** Provide feedback and learn about data sources and methodology
-
+- 
 ## Demo
-[Screenshot 2025-01-28 at 18.11.16.png]
+![Demo Screenshot](screenshots/Screenshot-2025-01-28-at-18.11.16.png)
 
 ## Data Sources
 ### Internet Usage Data:
