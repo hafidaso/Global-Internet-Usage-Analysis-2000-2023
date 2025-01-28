@@ -47,3 +47,14 @@ This interactive Streamlit app provides an in-depth analysis of global internet 
 - Python 3.7 or higher
 - pip
 - Git
+
+## Usage
+
+### 🚀 Running the App
+
+1. **Local Development**
+```bash
+# Clone the repository
+git clone https://github.com/hafidaso/Global-Internet-Usage-Analysis-2000-2023.git
+
+
