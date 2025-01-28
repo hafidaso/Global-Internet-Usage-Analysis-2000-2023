@@ -30,7 +30,7 @@ This interactive Streamlit app provides an in-depth analysis of global internet 
 - **Feedback and About Sections:** Provide feedback and learn about data sources and methodology
 
 ## Demo
-[Insert Screenshot/GIF of your Streamlit App]
+[Screenshot 2025-01-28 at 18.11.16.png]
 
 ## Data Sources
 ### Internet Usage Data:
